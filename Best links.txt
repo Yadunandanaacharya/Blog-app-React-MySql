@@ -1,0 +1,35 @@
+
+
+
+1. start react app and run it
+
+2. clone packages from github branch so that to avoid package related errors
+
+
+
+1. start react app and run it
+https://www.youtube.com/watch?v=zuyH4QUuTZk
+
+
+2. clone packages from github branch so that to avoid package related errors
+to do this first i installed hit for windows
+this is to 
+
+below command to clone all package from github
+
+git clone --single-branch -b "react-mini" https://github.com/safak/youtube2022.git .
+
+below command to install all those cloned packages
+npm install
+
+cd  'foldername' to change directory to that folder
+
+
+below command --use-npm is very important if you don't use then react understands
+you'll have to use yarn for all commands
+https://www.youtube.com/watch?v=HWpjpq2ux04
+
+npx create-react-app blog-app --use-npm
+
+below command for starting react app
+npm run start 
